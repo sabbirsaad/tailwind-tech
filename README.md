@@ -2,4 +2,4 @@
 
 A simple smartphone online shopping website using React and Tailwind.
 
-<a href="https://tailwind-tech.netlify.app/"></a>
+<a href="https://tailwind-tech.netlify.app/">[Live]</a>
